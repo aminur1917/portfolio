@@ -1,0 +1,7 @@
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\model\Stock.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\repositories\StockRepository.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\StockManagerApplication.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\config\DataGenerator.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\services\StockService.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\resources\StockResource.java
+C:\Development\docker-Java-kubernetes-project-main\stockmanager\src\main\java\uk\co\danielbryant\djshopping\stockmanager\exceptions\StockNotFoundException.java
